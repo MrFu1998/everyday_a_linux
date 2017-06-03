@@ -1,10 +1,8 @@
 ###每天一个`Linux`命令
 
-<<<<<<< HEAD
 > 本系列文章来源：peida  
-=======
+>
 > 本系列文章来源：`peida`  
->>>>>>> cd
 >
 > 链接：[http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html](http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
 >
