@@ -9,4 +9,5 @@
 1. [`ls`命令](1-ls-command.md)
 2. [`cd`命令](2-cd-command.md)
 3. [`pwd`命令](3-pwd-command.md)
+4. [`mkdir`](4-mkdir-command.md)
 
