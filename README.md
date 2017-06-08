@@ -11,4 +11,5 @@
 3. [`pwd`命令](3-pwd-command.md)
 4. [`mkdir`命令](4-mkdir-command.md)
 5. [`rm`命令](5-rm-command.md)
+6. [`touch`命令](6-touch-command.md)
 
