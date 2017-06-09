@@ -12,4 +12,5 @@
 4. [`mkdir`命令](4-mkdir-command.md)
 5. [`rm`命令](5-rm-command.md)
 6. [`touch`命令](6-touch-command.md)
+7. [`rmdir`命令](7-rmdir-command.md)
 
