@@ -4,7 +4,7 @@
 >
 > 链接：[http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html](http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
 >
-> 以下文章的命令本人已经在`linux(Ubuntu)`上已经实践过
+> 以下的命令均已在`linux(Ubuntu)`上已经操作过，绝不是简简单单的`Copy`一份
 
 1. [`ls`命令](1-ls-command.md)
 2. [`cd`命令](2-cd-command.md)
