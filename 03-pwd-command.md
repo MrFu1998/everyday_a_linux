@@ -61,6 +61,7 @@ root@ubuntu:/etc/nginx/conf.d# pwd
 /etc/nginx/conf.d
 root@ubuntu:/etc/nginx/conf.d# pwd -P
 /etc/nginx/conf.d
+# 是有效的  只是我不是软连接  这个是针对软链的  
 ```
 
 以下是原作者的输出：
